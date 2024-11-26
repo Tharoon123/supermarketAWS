@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3de3860.css",
+    "main.js": "/static/js/main.328135a8.js",
+    "static/js/453.517a981b.chunk.js": "/static/js/453.517a981b.chunk.js",
+    "static/media/dp-img3.jpg": "/static/media/dp-img3.1d32250abac91f7f9ea2.jpg",
+    "static/media/plate.png": "/static/media/plate.78aa09fd85052339a3c7.png",
+    "static/media/dp-img2.jpg": "/static/media/dp-img2.f3456a720c050f63107b.jpg",
+    "static/media/ad1.png": "/static/media/ad1.6473b3d2019dc72c5b2b.png",
+    "static/media/ad2.png": "/static/media/ad2.7b442c957c66f6f5fda9.png",
+    "static/media/ad5.png": "/static/media/ad5.542c4c03409acce8c5b0.png",
+    "static/media/flowerkolly.png": "/static/media/flowerkolly.1bfe9cb24524e4a750ed.png",
+    "static/media/ad4.png": "/static/media/ad4.bed7aafc0e139a7a6a61.png",
+    "static/media/ad3.png": "/static/media/ad3.fa63801e31bf930cf1ca.png",
+    "static/media/dp-img1.png": "/static/media/dp-img1.47e271c7d21021ee3399.png",
+    "static/media/payment2.png": "/static/media/payment2.c3554eae670b4bfe8d81.png",
+    "static/media/orange-slice.png": "/static/media/orange-slice.a9c937a234c538f11c6e.png",
+    "static/media/brand5.png": "/static/media/brand5.ae7e964bdb1c9519ef99.png",
+    "static/media/cherry.png": "/static/media/cherry.811c87a50b1b86ac8b1c.png",
+    "static/media/call icon.svg": "/static/media/call icon.d8ff0c2669252b0fdff064b54555e44e.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.a3de3860.css.map": "/static/css/main.a3de3860.css.map",
+    "main.328135a8.js.map": "/static/js/main.328135a8.js.map",
+    "453.517a981b.chunk.js.map": "/static/js/453.517a981b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3de3860.css",
+    "static/js/main.328135a8.js"
+  ]
+}
